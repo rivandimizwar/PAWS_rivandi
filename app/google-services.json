@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21220532069",
+    "project_id": "pawscapstone-72851",
+    "storage_bucket": "pawscapstone-72851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21220532069:android:d4308efb6a32e982280b8c",
+        "android_client_info": {
+          "package_name": "com.example.paws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21220532069-p9v09khf99545ff0mpdarssb8umacnbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkRCA9zxGJsoOWylhfB-rj4dT0RoBPiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21220532069-p9v09khf99545ff0mpdarssb8umacnbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
